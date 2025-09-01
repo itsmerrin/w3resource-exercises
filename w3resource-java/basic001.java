@@ -25,6 +25,6 @@ public class basic001{
         // hello - name -> reverse the order of the chars
         System.out.println("!evetS\nolleH");
 
-        scanner.close();
     }
+
 }
